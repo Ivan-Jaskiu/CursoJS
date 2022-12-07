@@ -1,0 +1,1 @@
+console.log(`Meu noame é "Ivan Jaskiu". Estou aprendendo JS as 10 da manha`)
