@@ -12,9 +12,9 @@ while (rand != 10){
     console.log(rand)
 }
 
-console.log('$$$$$$$$$$$')
+// console.log('$$$$$$$$$$$')
 
-do {
-    rand = random(min, max)
-    console.log(rand);
-} while(rand != 10)
+// do {
+//     rand = random(min, max)
+//     console.log(rand);
+// } while(rand != 10)
